@@ -1,4 +1,4 @@
-# quizzler
+# Quizzler
 
 A quiz test app with Flutter.
 
